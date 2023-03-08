@@ -1,4 +1,4 @@
-package com.acsass.interview;
+package com.interview.task;
 
 import androidx.appcompat.app.AppCompatActivity;
 

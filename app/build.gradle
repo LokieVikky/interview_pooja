@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.acsass.interview'
+    namespace 'com.interview.task'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.acsass.interview"
+        applicationId "com.interview.task"
         minSdk 24
         targetSdk 33
         versionCode 1

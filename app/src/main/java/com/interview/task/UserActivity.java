@@ -1,4 +1,4 @@
-package com.acsass.interview;
+package com.interview.task;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+
 
 public class UserActivity extends AppCompatActivity {
 
