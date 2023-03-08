@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String userName = edtUsername.getText().toString();
                 String password = edtPassword.getText().toString();
-
                 if (userName.isEmpty()) {
                     Toast.makeText(MainActivity.this, "Username is empty", Toast.LENGTH_SHORT).show();
                     return;
@@ -47,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
                     return;
                 }
                 Toast.makeText(MainActivity.this, "Incorrect user credentials", Toast.LENGTH_SHORT).show();
-
             }
         });
 

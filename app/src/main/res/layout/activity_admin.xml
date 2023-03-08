@@ -37,7 +37,7 @@
 
     <Button
         android:id="@+id/btnAddFood"
-        android:text="Add Food"
+        android:text="Add Item"
         android:layout_margin="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
